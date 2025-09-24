@@ -1,7 +1,6 @@
 # RISC-V CPU Simulator in logisim
 
-A custom-built 32-bit RISC-V-like CPU simulator written in C. It models instruction execution, memory management, and stage-based control logic. Designed as an educational tool for understanding CPU internals and microarchitecture.
-
+A custom-built 32-bit RISC-V-like CPU simulator written in C. It models instruction execution, memory management, and stage-based control logic. 
 ---
 
 ## 🚀 Features
